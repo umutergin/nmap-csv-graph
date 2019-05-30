@@ -5,4 +5,7 @@ Usage: nmap-csv-graph.py yournmap.xml
 
 Output:
 
+![GitHub Logo](/services.png)
+![GitHub Logo](/csv.png)
+
 
